@@ -1,7 +1,7 @@
 
 English version;
 
-The package supports Turkish, you can buy the English version for 20 TL. 
+The package supports Turkish, you can buy the English version for 1 dolars. 
 To get support during the installation phase or if you have any other problems
 
 
@@ -11,9 +11,9 @@ Server: https://discord.gg/eBPmwqfsTT
 
 ---------------------------------------------------------------------------------------------------------------
 
-Türkçe versiyon;
+TÃ¼rkÃ§e versiyon;
 
-Paket türkçe desteklidir, Kurulum aşamasında destek almak için veya başka bir sorun yaşarsanız
+Paket tÃ¼rkÃ§e desteklidir, Kurulum aÃ¾amasÃ½nda destek almak iÃ§in veya baÃ¾ka bir sorun yaÃ¾arsanÃ½z
 
 Discord ismim: mrtrengh
 
