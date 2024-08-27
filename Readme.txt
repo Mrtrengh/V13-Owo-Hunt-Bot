@@ -7,7 +7,7 @@ To get support during the installation phase or if you have any other problems
 
 Discord Name: mrtrengh
 
-Server: https://discord.gg/eBPmwqfsTT
+Server: https://discord.gg/BQgPRgAKpb
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ Paket türkçe desteklidir, Kurulum aþamasýnda destek almak için veya baþka 
 
 Discord ismim: mrtrengh
 
-Sunucum: https://discord.gg/eBPmwqfsTT
+Sunucum: https://discord.gg/BQgPRgAKpb
